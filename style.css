@@ -1,0 +1,32 @@
+
+ h1{ color:rgb(rgb(86, 160, 160), green, blue)}
+            
+div {background-color: blueviolet;
+width: 100px;
+height: 100px;}
+body{
+    font-family: 'Libre Baskerville', serif;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:aqua;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color:blue ;
+  }
